@@ -181,7 +181,8 @@ On AMD systems you _can block the update_ via [wushowhide.diagcab](https://suppo
 
 ### Intel Microcode Updates
 
-[Intel Microcode Guidance 14. May 2019 (.pdf)](https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/SA00233-microcode-update-guidance_05132019.pdf)
+* [Intel Microcode Guidance 14. May 2019 (.pdf)](https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/SA00233-microcode-update-guidance_05132019.pdf)
+* [Intel Microsocode Update Guidance 27. Jan 2020 (.pdf)](https://www.intel.com/content/dam/www/public/us/en/security-advisory/documents/sa00329-microcode-update-guidance.pdf)
 
 OS Version | KB | Patch | Updated
 --- | --- | --- | --- 
