@@ -1,16 +1,11 @@
 Regtweaks Collection files original created under the [Mozilla Public License 2.0 license](https://github.com/CHEF-KOCH/regtweaks/blob/master/LICENSE) 2015 - present by [CHEF-KOCH](https://github.com/CHEF-KOCH). Some tweaks are taken from the Internet but most tweaks are found by myself.
 
 
-<p align="center">
-  <img width="500" height="320" src="https://raw.githubusercontent.com/CHEF-KOCH/regtweaks/master/.github/Pictures/20H2.jpg")">
-</p>
 
 **Current Status: Over 900+ tweaks**
 
 
-![Matrix](https://img.shields.io/matrix/cknews:matrix.org.svg?label=CK%27s%20Technology%20News%20-%20Matrix%20Chat&server_fqdn=matrix.org&style=popout)
-![Twitter Follow](https://img.shields.io/twitter/follow/@CKsTechNews.svg?label=Follow%20%40CKsTechNews&style=social)
-[![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
+
 
 
 **Before** you use any tweak(s) ensure you read the comment(s) inside the .reg (labeled with **;**) to see what it really changes. Of course a backup/snapshot could also help in case something goes wrong. Remember: Shit happens!
